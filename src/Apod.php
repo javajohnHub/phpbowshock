@@ -11,4 +11,3 @@ class Apod{
      return json_decode(file_get_contents($base_url));
    }
  }
-}
