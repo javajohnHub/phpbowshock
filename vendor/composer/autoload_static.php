@@ -18,7 +18,7 @@ class ComposerStaticInit37988559dcce2ccacdb0182935ed0fdc
         ),
         'j' => 
         array (
-            'javajohnhub\\bowshock\\' => 21,
+            'javajohnhub\\phpbowshock\\' => 24,
         ),
         'W' => 
         array (
@@ -42,7 +42,7 @@ class ComposerStaticInit37988559dcce2ccacdb0182935ed0fdc
             1 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
             2 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
         ),
-        'javajohnhub\\bowshock\\' => 
+        'javajohnhub\\phpbowshock\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),
