@@ -1,5 +1,5 @@
 <?php 
-namespace javajohnHub\Bowshock;
+namespace javajohnhub\phpbowshock;
 
 class Apod{
 
