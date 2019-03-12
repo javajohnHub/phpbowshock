@@ -9,7 +9,7 @@
             "email": "joedw1978@gmail.com"
         }
     ],
-    "type": "project",
+    "type": "library",
     "require": {
         "php": ">=7.1",
         "javajohnhub/phpbowshock": "dev-master"
